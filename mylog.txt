@@ -1,0 +1,25 @@
+*   Merge branch 'moreEvents' This is really important
+|\  
+| * friendly event header
+* |   Merge event handling
+|\ \  
+| |/  
+| * Add multile events
+* | Different event
+|/  
+*   Merge branch 'addEvents' This is Important:
+|\  
+| * Added header
+| * Added event
+* | New thought of the day
+|/  
+* Refractored FnOne to thoughtForTheDay
+* added FnOne
+* meh!
+* thisisforrebase
+* pullin in second branch
+* second commit
+* secondfile
+* firstcommit
+* add via upload
+* Initial commit
