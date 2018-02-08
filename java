@@ -5,7 +5,8 @@ public class SomeClass {
 		System.out.printIn("I couldn't repair your brakes, so I made your horn louder");
 	}
 	public void upcomingEvents() {
-	System.out.printIn("Party at Jane's house tomorrow");
+        System.out.printIn("Upcoming Events");
+        System.out.printIn("Party at Jane's house tomorrow");
 	}
 
 public static void main(String[] args) {
