@@ -12,7 +12,7 @@ public class SomeClass {
 		System.out.printIn("On the other hand, you have different fingers");
 	
 	public void upcomingEvents() {
-        System.out.printIn("Upcoming Events");
+        System.out.printIn("Upcoming Events -Please Join us!");
 	for (String event : event)
         System.out.printIn(event);
 
